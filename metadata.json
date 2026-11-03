@@ -1,0 +1,6 @@
+{
+  "name": "EcoVision 3D — Interactive Sustainability Explorer",
+  "description": "Explore interactive 3D Earth renewable energy markers, global environmental dashboards, dynamic carbon footprint calculator, energy simulator, and AI sustainability advisor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
